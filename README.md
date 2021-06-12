@@ -1,1 +1,1 @@
-To run **SurfaceXplorerMatlab** put all files in teh same folder and run the *SurfaceXplorerMatlab.m* file.
+To run **SurfaceXplorerMatlab** put all files in the same folder and run the *SurfaceXplorerMatlab.m* file.
